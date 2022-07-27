@@ -1,1 +1,3 @@
-I've been writing software professionally within two distinct millennia now, mostly centered around Python, Go, C/C++, and general Linux nerdiness. Shameless purveyor of dad jokes. Aviation junky. Amateur Radio geek. 
+I've been writing software professionally within two distinct millennia now, mostly centered around Python, Go, C/C++, security, and general Linux nerdiness. 
+
+Father. Husband. Shameless purveyor of dad jokes. Admirer of nature. Aviation addict. Amateur Radio operator.
